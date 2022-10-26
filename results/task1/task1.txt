@@ -1,12 +1,12 @@
-24 October 2022 10:53:31 AM
+24 October 2022 12:50:51 PM
 
 MATMUL:
   C = A * B.
   Order N                 = 300
-  Elapsed seconds = 0.151107
+  Elapsed seconds = 0.136401
   C(100,100)  = 1
 
 Matmul:
   Normal end of execution.
 
-24 October 2022 10:53:32 AM
+24 October 2022 12:50:51 PM
